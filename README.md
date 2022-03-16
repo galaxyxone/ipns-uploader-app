@@ -1,4 +1,4 @@
 # ipns-uploader-app
-A small app to upload and save data on IPFS and getting a IPNS location. Typically could be used for NFT developers and more. 
+A small app to upload and save data on IPFS and getting a IPNS location. 
 
 Design Guidelines
